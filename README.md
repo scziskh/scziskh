@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <strong>@scziskh</strong>
 - 👀 I’m interested in <strong>Front End</strong>
-- 🌱 I’m currently learning <strong>React</strong>
+- 🌱 I’m currently learning <strong>React JS</strong>, <strong>Next JS</strong>, <strong>Solid JS</strong>
 - 💞️ I’m looking to collaborate on <strong>Front End Developer</strong>
 - 📫 How to reach me: <a href="mailto:muzychukserhii@gmail.com">muzychukserhii@gmail.com</a>
